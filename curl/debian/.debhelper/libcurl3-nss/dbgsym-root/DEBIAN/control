@@ -1,0 +1,13 @@
+Package: libcurl3-nss-dbgsym
+Source: curl
+Version: 7.62.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Installed-Size: 1545
+Depends: libcurl3-nss (= 7.62.0-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libcurl3-nss
+Build-Ids: edcbbdb650c46924bfb3094dee2b8b7ad0f61cec

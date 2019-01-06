@@ -1,0 +1,3 @@
+shlibs:Depends=intel-comp-ps-ss-bec-19.0.1-144, libc6 (>= 2.17), libcurl4 (>= 7.56.1), zlib1g (>= 1:1.1.4)
+misc:Depends=
+misc:Pre-Depends=

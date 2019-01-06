@@ -1,0 +1,13 @@
+Package: libcurl3-gnutls-dbgsym
+Source: curl
+Version: 7.62.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Installed-Size: 1511
+Depends: libcurl3-gnutls (= 7.62.0-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libcurl3-gnutls
+Build-Ids: dd8797460edacb3b16aa966134fbdb289683792d

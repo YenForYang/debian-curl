@@ -1,0 +1,13 @@
+Package: libcurl4-dbgsym
+Source: curl
+Version: 7.62.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Installed-Size: 1469
+Depends: libcurl4 (= 7.62.0-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libcurl4
+Build-Ids: a82abeb73adc05dcd4bb45b2d659b0323f992bef
